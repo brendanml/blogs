@@ -1,0 +1,2 @@
+# call get blog
+GET http://localhost:5001/api/blogs
